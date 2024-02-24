@@ -54,6 +54,9 @@
   align-items: center;
   justify-content: center;
 }
+.hero-right img {
+  width: 80%;
+}
 
 @media all and (max-width: 700px) {
   .hero {
